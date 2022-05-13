@@ -1,0 +1,2 @@
+b = d;
+  delete b;
